@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+void main ()
+
+{
+clrcsr ();
+	   printf("helllo world \thow are you?")
+	   printf("\ngood morning!");
+getch ();
+
+}

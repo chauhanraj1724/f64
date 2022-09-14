@@ -1,0 +1,73 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int i,j,add,sub,multi,div,per;
+clrscr();
+
+	printf("enter number 1");
+	 scanf("%d",&i);
+	 printf("you have entered number is %d",i);
+
+	 printf("enter number 1");
+	 scanf("%d",&j);
+	 printf("you have entered number is %d",j);
+
+
+	 add=i+j;
+	 printf("value of add is %d",add);
+
+
+
+	printf("enter number 1");
+	 scanf("%d",&i);
+	 printf("you have enetred number is %d",i);
+
+	 printf("enter number 1");
+	 scanf("%d",&j);
+	 printf("you have entered number is %d",j);
+
+
+	 sub=i-j;
+	 printf("value of sub is %d",sub);
+
+
+
+	printf("enter number 1");
+	 scanf("%d",&i);
+	 printf("you have entered numbr is %d",i);
+
+	 printf("enter number 1");
+	 scanf("%d",&j);
+	 printf("you have entered number is %d",j);
+
+	 multi=i*j;
+	 printf("value of multi is %d",multi);
+
+
+
+	printf("enter number 1");
+	 scanf("%d",&i);
+	 printf("you have entered number is %d",i);
+
+	 printf("enter number 1");
+	 scanf("%d",&j);
+	 printf("you have entered number is %d",j);
+
+	 div=i/j;
+	 printf("value of div is %d",div);
+
+
+
+	printf("enter number 1");
+	 scanf("%d",&i);
+	 printf("you have entered number is %d",i);
+
+	 printf("enter number 1");
+	 scanf("%d",&j);
+	 printf("you have entered number is %d",j);
+
+	 per=i%j;
+	 printf("value of per is %d",per);
+getch();
+}
